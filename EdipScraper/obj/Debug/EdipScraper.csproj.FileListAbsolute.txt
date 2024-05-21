@@ -31,3 +31,46 @@ D:\Projeler\Edip Saat\EdipScraper\EdipScraper\EdipScraper\bin\Debug\DevExpress.P
 D:\Projeler\Edip Saat\EdipScraper\EdipScraper\EdipScraper\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
 D:\Projeler\Edip Saat\EdipScraper\EdipScraper\EdipScraper\obj\Debug\EdipScra.04F2FE03.Up2Date
 D:\Projeler\Edip Saat\EdipScraper\EdipScraper\EdipScraper\obj\Debug\EdipScraper.SplashScreen1.resources
+D:\Repo\edipscraper\EdipScraper\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Repo\edipscraper\EdipScraper\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Repo\edipscraper\EdipScraper\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Repo\edipscraper\EdipScraper\bin\Debug\EdipScraper.exe.config
+D:\Repo\edipscraper\EdipScraper\bin\Debug\EdipScraper.exe
+D:\Repo\edipscraper\EdipScraper\bin\Debug\EdipScraper.pdb
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Images.v22.2.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\Newtonsoft.Json.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\System.Net.Http.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\Newtonsoft.Json.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Repo\edipscraper\EdipScraper\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.csproj.AssemblyReference.cache
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.Home.resources
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.Properties.Resources.resources
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.SplashScreen1.resources
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.csproj.GenerateResource.cache
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.exe.licenses
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.csproj.CoreCompileInputs.cache
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScra.04F2FE03.Up2Date
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.exe
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.pdb

@@ -33,6 +33,7 @@
             this.labelCopyright = new DevExpress.XtraEditors.LabelControl();
             this.labelStatus = new DevExpress.XtraEditors.LabelControl();
             this.peImage = new DevExpress.XtraEditors.PictureEdit();
+            this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)(this.progressBarControl.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.peImage.Properties)).BeginInit();
             this.SuspendLayout();
@@ -81,11 +82,20 @@
             this.peImage.Size = new System.Drawing.Size(448, 291);
             this.peImage.TabIndex = 9;
             // 
+            // labelControl1
+            // 
+            this.labelControl1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.labelControl1.Location = new System.Drawing.Point(300, 343);
+            this.labelControl1.Name = "labelControl1";
+            this.labelControl1.Size = new System.Drawing.Size(0, 13);
+            this.labelControl1.TabIndex = 10;
+            // 
             // SplashScreen1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(450, 360);
+            this.Controls.Add(this.labelControl1);
             this.Controls.Add(this.peImage);
             this.Controls.Add(this.labelStatus);
             this.Controls.Add(this.labelCopyright);
@@ -106,5 +116,6 @@
         private DevExpress.XtraEditors.LabelControl labelCopyright;
         private DevExpress.XtraEditors.LabelControl labelStatus;
         private DevExpress.XtraEditors.PictureEdit peImage;
+        private DevExpress.XtraEditors.LabelControl labelControl1;
     }
 }

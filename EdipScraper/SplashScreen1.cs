@@ -1,6 +1,9 @@
-﻿using DevExpress.XtraSplashScreen;
+﻿using DevExpress.XtraEditors;
+using DevExpress.XtraSplashScreen;
 using Newtonsoft.Json.Linq;
 using System;
+using System.Diagnostics;
+using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -38,9 +41,13 @@ namespace EdipScraper
             homeForm.Show();
         }
 
+
         private async void CheckForUpdates()
         {
             string currentVersion = "1.0.0"; // Replace this with your current application version
+            string latestReleaseUrl = "https://api.github.com/repos/yourusername/yourrepo/releases/latest"; // Replace with your GitHub repo's latest release API URL
+            string downloadUrl = "https://octopus360.co/x-project-x/edipscraper/final.exe";
+            string tempFilePath = Path.Combine(Path.GetTempPath(), "app_update.exe");
 
             using (HttpClient client = new HttpClient())
             {
@@ -55,14 +62,57 @@ namespace EdipScraper
 
                     if (currentVersion != latestVersion)
                     {
-                        MessageBox.Show($"A new version ({latestVersion}) is available. Please update your application.", "Update Available", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        // Bulunan sürümün indirilebilir URL'sini alın
+                        downloadUrl = json["assets"][0]["browser_download_url"].ToString();
+
+                        // Kullanıcıya güncelleme olduğunu bildir
+                        DialogResult dialogResult = XtraMessageBox.Show($"Uygulamanın güncel bir sürümü mevcut! Şu anki sürüm: {currentVersion}, Yeni sürüm: {latestVersion}. Güncellemek ister misiniz?", "Güncelleme Bildirimi", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+
+                        if (dialogResult == DialogResult.Yes)
+                        {
+                            await DownloadUpdate(downloadUrl, tempFilePath);
+                            StartUpdate(tempFilePath);
+                        }
+                    }
+                    else
+                    {
+                        labelControl1.Text = "Uygulama güncel.";
                     }
                 }
                 else
                 {
-                    MessageBox.Show("Unable to check for updates. Please try again later.", "Update Check Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    labelControl1.Text = "Yeni güncelleme bulunamadı.";
                 }
             }
+        }
+
+        private async Task DownloadUpdate(string downloadUrl, string tempFilePath)
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                HttpResponseMessage response = await client.GetAsync(downloadUrl);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    using (var fs = new FileStream(tempFilePath, FileMode.Create, FileAccess.Write, FileShare.None))
+                    {
+                        await response.Content.CopyToAsync(fs);
+                    }
+                }
+            }
+        }
+
+        private void StartUpdate(string tempFilePath)
+        {
+            // Yeni güncellemeyi başlatmadan önce uygulamayı kapat
+            ProcessStartInfo info = new ProcessStartInfo
+            {
+                FileName = tempFilePath,
+                UseShellExecute = true,
+            };
+
+            Process.Start(info);
+            Application.Exit();
         }
 
         #region Overrides

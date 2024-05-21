@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,31 +37,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SplashScreen1.cs",
               "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\SplashScreen1.cs",
               "RelativeDocumentMoniker": "EdipScraper\\SplashScreen1.cs",
-              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\SplashScreen1.cs",
-              "RelativeToolTip": "EdipScraper\\SplashScreen1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABfAAAA",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\SplashScreen1.cs*",
+              "RelativeToolTip": "EdipScraper\\SplashScreen1.cs*",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowHMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T13:12:37.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SplashScreen1.cs [Tasar\u0131m]",
               "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\SplashScreen1.cs",
               "RelativeDocumentMoniker": "EdipScraper\\SplashScreen1.cs",
-              "ToolTip": "D:\\Projeler\\Edip Saat\\EdipScraper\\EdipScraper\\EdipScraper\\SplashScreen1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\Projeler\\Edip Saat\\EdipScraper\\EdipScraper\\EdipScraper\\SplashScreen1.cs [Tasar\u0131m]",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\SplashScreen1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "EdipScraper\\SplashScreen1.cs [Tasar\u0131m]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:10:20.434Z"
+              "WhenOpened": "2024-05-16T13:10:20.434Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
@@ -77,30 +82,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Home.cs",
               "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs",
               "RelativeDocumentMoniker": "EdipScraper\\Home.cs",
               "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs",
               "RelativeToolTip": "EdipScraper\\Home.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAEwB0AAAAuAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAvwB0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:52:59.22Z"
+              "WhenOpened": "2024-05-16T10:52:59.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.cs [Tasar\u0131m]",
               "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs",
               "RelativeDocumentMoniker": "EdipScraper\\Home.cs",
-              "ToolTip": "D:\\Projeler\\Edip Saat\\EdipScraper\\EdipScraper\\EdipScraper\\Home.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\Projeler\\Edip Saat\\EdipScraper\\EdipScraper\\EdipScraper\\Home.cs [Tasar\u0131m]",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EdipScraper\\Home.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:53:12.745Z"
+              "WhenOpened": "2024-05-16T10:53:12.745Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Home.Designer.cs",
               "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Home.Designer.cs",
               "RelativeDocumentMoniker": "EdipScraper\\Home.Designer.cs",
@@ -108,7 +115,8 @@
               "RelativeToolTip": "EdipScraper\\Home.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:53:04.855Z"
+              "WhenOpened": "2024-05-16T10:53:04.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
