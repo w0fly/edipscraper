@@ -111,6 +111,7 @@
             this.simpleButton1.Size = new System.Drawing.Size(144, 44);
             this.simpleButton1.TabIndex = 12;
             this.simpleButton1.Text = "Zamanlayıcı Tanımları";
+            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
             // 
             // simpleButton2
             // 
@@ -122,6 +123,7 @@
             this.simpleButton2.Size = new System.Drawing.Size(144, 44);
             this.simpleButton2.TabIndex = 13;
             this.simpleButton2.Text = "XPath Tanımları";
+            this.simpleButton2.Click += new System.EventHandler(this.simpleButton2_Click);
             // 
             // simpleButton3
             // 
@@ -133,6 +135,7 @@
             this.simpleButton3.Size = new System.Drawing.Size(144, 44);
             this.simpleButton3.TabIndex = 14;
             this.simpleButton3.Text = "Veri Akış Tanımları";
+            this.simpleButton3.Click += new System.EventHandler(this.simpleButton3_Click);
             // 
             // simpleButton4
             // 
@@ -144,6 +147,7 @@
             this.simpleButton4.Size = new System.Drawing.Size(144, 44);
             this.simpleButton4.TabIndex = 15;
             this.simpleButton4.Text = "Proxy Tanımları";
+            this.simpleButton4.Click += new System.EventHandler(this.simpleButton4_Click);
             // 
             // simpleButton5
             // 
@@ -155,6 +159,7 @@
             this.simpleButton5.Size = new System.Drawing.Size(144, 44);
             this.simpleButton5.TabIndex = 16;
             this.simpleButton5.Text = "Solver Tanımları";
+            this.simpleButton5.Click += new System.EventHandler(this.simpleButton5_Click);
             // 
             // simpleButton6
             // 
@@ -165,7 +170,8 @@
             this.simpleButton6.Name = "simpleButton6";
             this.simpleButton6.Size = new System.Drawing.Size(93, 44);
             this.simpleButton6.TabIndex = 17;
-            this.simpleButton6.Text = "Diğer >";
+            this.simpleButton6.Text = "MySQL Config";
+            this.simpleButton6.Click += new System.EventHandler(this.simpleButton6_Click);
             // 
             // simpleButton7
             // 
