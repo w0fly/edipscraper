@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\Repo\\edipscraper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|d:\\repo\\edipscraper\\edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|d:\\repo\\edipscraper\\edipscraper\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|d:\\repo\\edipscraper\\edipscraper\\mysqlconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\mysqlconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|d:\\repo\\edipscraper\\edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\splashscreen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|d:\\repo\\edipscraper\\edipscraper\\mysqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\mysqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|D:\\Repo\\edipscraper\\edipscraper\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1338653-8232-48A2-9BAB-0CE774F99508}|EdipScraper\\EdipScraper.csproj|solutionrelative:edipscraper\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projeler\\Edip Saat\\EdipScraper\\EdipScraper\\EdipScraper\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -37,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,15 +53,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SplashScreen1.cs",
               "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\SplashScreen1.cs",
               "RelativeDocumentMoniker": "EdipScraper\\SplashScreen1.cs",
               "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\SplashScreen1.cs",
               "RelativeToolTip": "EdipScraper\\SplashScreen1.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwDEAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T13:12:37.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs",
+              "RelativeDocumentMoniker": "EdipScraper\\Home.cs",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "EdipScraper\\Home.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:53:12.745Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs",
+              "RelativeDocumentMoniker": "EdipScraper\\Home.cs",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs*",
+              "RelativeToolTip": "EdipScraper\\Home.cs*",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwGkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:52:59.22Z",
               "EditorCaption": ""
             },
             {
@@ -70,49 +103,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Program.cs",
-              "RelativeDocumentMoniker": "EdipScraper\\Program.cs",
-              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Program.cs",
-              "RelativeToolTip": "EdipScraper\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBIAAAAtAAAA",
+              "DocumentIndex": 4,
+              "Title": "MySqlConfig.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\MySqlConfig.cs",
+              "RelativeDocumentMoniker": "EdipScraper\\MySqlConfig.cs",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\MySqlConfig.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EdipScraper\\MySqlConfig.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T12:23:23.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.cs",
-              "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs",
-              "RelativeDocumentMoniker": "EdipScraper\\Home.cs",
-              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs",
-              "RelativeToolTip": "EdipScraper\\Home.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIA8wDcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:52:59.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.cs [Tasar\u0131m]",
-              "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs",
-              "RelativeDocumentMoniker": "EdipScraper\\Home.cs",
-              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Home.cs [Tasar\u0131m]",
-              "RelativeToolTip": "EdipScraper\\Home.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:53:12.745Z",
+              "WhenOpened": "2024-05-21T12:45:19.416Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "IniFile.cs",
+              "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\IniFile.cs",
+              "RelativeDocumentMoniker": "EdipScraper\\IniFile.cs",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\IniFile.cs",
+              "RelativeToolTip": "EdipScraper\\IniFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:22:48.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySqlHelper.cs",
+              "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\MySqlHelper.cs",
+              "RelativeDocumentMoniker": "EdipScraper\\MySqlHelper.cs",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\MySqlHelper.cs",
+              "RelativeToolTip": "EdipScraper\\MySqlHelper.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:23:54.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Home.Designer.cs",
               "DocumentMoniker": "D:\\Repo\\edipscraper\\EdipScraper\\Home.Designer.cs",
               "RelativeDocumentMoniker": "EdipScraper\\Home.Designer.cs",
-              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Home.Designer.cs",
-              "RelativeToolTip": "EdipScraper\\Home.Designer.cs",
+              "ToolTip": "D:\\Repo\\edipscraper\\EdipScraper\\Home.Designer.cs*",
+              "RelativeToolTip": "EdipScraper\\Home.Designer.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T10:53:04.855Z",
@@ -120,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Projeler\\Edip Saat\\EdipScraper\\EdipScraper\\EdipScraper\\Form1.cs",
               "RelativeDocumentMoniker": "..\\..\\Projeler\\Edip Saat\\EdipScraper\\EdipScraper\\EdipScraper\\Form1.cs",

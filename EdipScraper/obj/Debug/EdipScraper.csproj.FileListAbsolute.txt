@@ -74,3 +74,5 @@ D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.csproj.CoreCompileInputs.c
 D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScra.04F2FE03.Up2Date
 D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.exe
 D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.pdb
+D:\Repo\edipscraper\EdipScraper\bin\Debug\MySql.Data.dll
+D:\Repo\edipscraper\EdipScraper\obj\Debug\EdipScraper.MySqlConfig.resources
