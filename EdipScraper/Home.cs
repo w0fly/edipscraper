@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data;
 
+
 namespace EdipScraper
 {
     public partial class Home : DevExpress.XtraEditors.XtraForm
@@ -41,6 +42,8 @@ namespace EdipScraper
         private void simpleButton7_Click(object sender, EventArgs e)
         {
             listBoxControl1.Items.Add("[+] Tissot Tetiği Verildi. Bekleniyor... !");
+            listBoxControl1.Items.Add("[+] 7500MS'lik Sleep Uygulanıyor...");
+            System.Threading.Thread.Sleep(7500);
 
         }
 
